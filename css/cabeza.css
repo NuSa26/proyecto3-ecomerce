@@ -1,0 +1,36 @@
+.cabeza{    
+    background: yellow;
+    background-image: url(../imagenes/banner__cabeza.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    padding: 25px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cointener__cabeza{    
+    position: relative;
+    left: 10rem;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.contenedor__cabeza{
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.cabeza__search{
+    background-color: silver;
+    display: flex;
+    width: 250px;
+    padding: 8px 16px;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid blueviolet;
+    border-radius: 20px;
+}

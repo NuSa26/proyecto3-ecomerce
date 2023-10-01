@@ -1,0 +1,86 @@
+.cuerpo{
+    background: #B06375;
+    background: linear-gradient(to bottom, #B06375 0%, #870904 100%);
+}
+
+.parte__uno{
+    background-image: url(../imagenes/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 20rem;
+    padding: 2rem;
+}
+
+.text{
+    color: azure;
+    padding: 2rem 3rem;
+}
+
+.tit__ver{
+    position: relative;
+    display: flex;
+}
+
+.tit{
+    position: relative;
+    display: flex;
+    left: 4.5rem;
+    text-align: center;
+}
+
+.ver__todo{
+    position: relative;
+    display: flex;
+    right: 5rem;
+    text-align: center;
+}
+
+.ver{
+    position: absolute;
+    left: 5rem;
+    padding: 1rem;
+    border-radius: 20px;
+}
+
+.parte__tres{
+    background-image: url(../imagenes/banner2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 20rem;
+    padding: 2rem;
+}
+
+.columnas{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    float: right;
+    position: relative;
+    display: flex;
+    left: 5rem;
+}
+
+.enunciados{
+    float: left;
+    position: relative;
+    display: flex;
+    color: #870904;
+}
+
+.lista{
+    list-style: none;
+}
+
+.inputs{
+    position: relative;
+    float: left;
+    display: block;
+}
+

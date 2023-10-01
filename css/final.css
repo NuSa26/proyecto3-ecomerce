@@ -1,0 +1,48 @@
+/*fuentes de todas letras
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Snippet', sans-serif;
+*/
+
+/*cuerpo*/
+
+.titulo{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.texto{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.bebidas{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
+.ver__todo{
+    font-family: 'Snippet', sans-serif;
+    color: white;
+}
+
+.nombre__cafe{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: aliceblue;
+}
+.precio{
+    font-family: 'Snippet', sans-serif;
+    color: aliceblue;
+}
+
+.enunciado{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/*css del final de footer*/
+.final{
+    padding-left: 35rem;
+}
+
+.fin{
+    display: flex;
+    position: relative;
+}

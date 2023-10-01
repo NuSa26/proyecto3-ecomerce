@@ -1,0 +1,42 @@
+.logo{
+    position: absolute;
+    display: flex;
+    right: 2rem;
+}
+
+.icono__logo{    
+    position: relative;
+    display: flex;
+    width: 7rem;
+    height: 7rem;
+}
+
+.icono__search{
+    position: relative;
+    left: 1.6rem;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
+
+.search{
+    border: none;
+    background: none;
+}
+
+.login{
+    position: relative;
+    right: 22rem;
+    display: flex;
+    top: 13px;
+    width: 100px;
+    height: 50px;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border: 1px solid;
+    border-color: blueviolet;
+    border-radius: 20px;
+}

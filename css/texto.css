@@ -1,0 +1,39 @@
+.tit__ver{
+    display: flex;
+    justify-content: space-between;
+}
+
+.vertodo{
+    position: relative;
+    right: 2rem;
+}
+
+.cointainer__bebidas{
+    align-items: cover;
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.cafe{
+    flex-grow: 1;
+    padding: 6px;
+    justify-content: space-between;
+}
+
+.cafe__img{
+    width: 10rem;
+    height: 10rem;
+    padding: 5rem;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+}
+
+.txt{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around; 
+    left: -2.5rem;
+    text-align: center;
+}
+

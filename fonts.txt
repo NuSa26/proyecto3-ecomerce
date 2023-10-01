@@ -1,0 +1,13 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Montserrat+Alternates:wght@200&family=Snippet&display=swap" rel="stylesheet">
+
+
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Snippet', sans-serif;
+
+codigo de la flecha
+&#129042;
+codigo del simbolo de dolar
+&#36;
